@@ -368,6 +368,17 @@ color: #242424 !important;
 	font-size: 16px;
 	font-weight: 500;
 }
+
+.about p {
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.portfolio p {
+	font-size: 16px;
+	font-weight: 500;
+}
+
 .email i {
 	color: #EB233C;
 	padding-right: 10px;
